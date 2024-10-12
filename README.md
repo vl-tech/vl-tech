@@ -9,8 +9,8 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 - **Scripting**: Automating tasks with [Bash](https://www.gnu.org/software/bash/), [Python](https://www.python.org/), and [Go](https://golang.org/).
 - **Virtualization**: Experienced with [LXD/LXC](https://linuxcontainers.org/lxd/introduction/), [Incus Containers](https://incus.net/), [Docker](https://www.docker.com/), [Podman](https://podman.io/), and [QEMU-KVM](https://www.qemu.org/).
 - **Monitoring**: Skilled in setting up monitoring with [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), and [Icinga2](https://icinga.com/).
-- **Cloud Infrastructure**: Skilled in deploying and managing cloud services with an emphasis on scalability and resilience.
-- **Infrastructure as Code (IaC)**: Building robust infrastructures using code to create reproducible environments and automate the management of resources.
+- **Documentation**: I use [MkDocs](https://www.mkdocs.org/) to write and organize my documentation and notes. Its simplicity and support for Markdown make it ideal for maintaining clear and structured project documentation.
+- **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
 
 ### 🚀 Skills and Tools:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
