@@ -51,10 +51,10 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/LXC-3C3C3D?style=for-the-badge&logo=linux&logoColor=white" alt="LXC" />
+      <img src="https://img.shields.io/badge/LXC/LXD-3C3C3D?style=for-the-badge&logo=linux&logoColor=white" alt="LXC/LXD" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/LXD-003B57?style=for-the-badge&logo=linux&logoColor=white" alt="LXD" />
+      <img src="https://img.shields.io/badge/Incus-003B57?style=for-the-badge&logo=linux&logoColor=white" alt="Incus" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/QEMU-KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
