@@ -13,18 +13,75 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 - **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
 
 ### 🚀 Skills and Tools:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![DevOps](https://img.shields.io/badge/DevOps-0A0F43?style=for-the-badge&logo=devops&logoColor=white)
-- ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-- ![Icinga2](https://img.shields.io/badge/Icinga2-48C9B0?style=for-the-badge&logo=icinga&logoColor=white)
+
+## Scripting
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+</table>
+
+## DevOps Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DevOps-0A0F43?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    </td>
+  </tr>
+</table>
+
+## Virtualization/Containerization
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LXC-3C3C3D?style=for-the-badge&logo=linux&logoColor=white" alt="LXC" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LXD-003B57?style=for-the-badge&logo=linux&logoColor=white" alt="LXD" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/QEMU-KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+    </td>
+  </tr>
+</table>
+
+## Monitoring
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Icinga2-48C9B0?style=for-the-badge&logo=icinga&logoColor=white" alt="Icinga2" />
+    </td>
+  </tr>
+</table>
 
 ### 📖 Learning & Evolving:
 I believe in **continuous learning** and stay up to date with the latest trends in DevOps, cloud computing, and infrastructure management. I'm constantly exploring new tools, mastering automation frameworks, and diving deeper into **Python** and **Go**.
