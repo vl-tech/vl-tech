@@ -38,7 +38,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/DevOps-0A0F43?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
