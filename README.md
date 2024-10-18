@@ -11,7 +11,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 - **Monitoring**: Skilled in setting up monitoring with [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), and [Icinga2](https://icinga.com/).
 - **Documentation**: I use [MkDocs](https://www.mkdocs.org/) to write and organize my documentation and notes. Its simplicity and support for Markdown make it ideal for maintaining clear and structured project documentation.
 - **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
-## [Home Lab Configuration](https://vladmin-dev.top/hosting-tools-images/Home-Lab-Setup.drawio.png)
+## [Home Lab Scheme image](https://vladmin-dev.top/hosting-tools-images/Home-Lab-Setup.drawio.png)
 
 
 ### 🚀 Skills and Tools:
