@@ -1,9 +1,11 @@
-# 👋 Hi there, I'm Vladimir Ivanov!
+# 👋 Hi there, I'm Vladimir Ivanov
 
-### 🌟 About Me:
+### 🌟 About Me
+
 I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud Infrastructure**. My focus is on scripting automation, infrastructure as code (IaC), and developing scalable, automated solutions using modern tools and frameworks.
 
-### 💻 Technologies I work with:
+### 💻 Technologies I work with
+
 - **DevOps**: Utilizing [Ansible](https://www.ansible.com/) and [Jenkins](https://www.jenkins.io/) to automate deployments, configuration management, and CI/CD pipelines.
 - **Programming**: Comfortable with [Python](https://www.python.org/) and [Go](https://golang.org/) for backend development and automation.
 - **Scripting**: Automating tasks with [Bash](https://www.gnu.org/software/bash/), [Python](https://www.python.org/), and [Go](https://golang.org/).
@@ -11,12 +13,13 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 - **Monitoring**: Skilled in setting up monitoring with [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), and [Icinga2](https://icinga.com/).
 - **Documentation**: I use [MkDocs](https://www.mkdocs.org/) to write and organize my documentation and notes. Its simplicity and support for Markdown make it ideal for maintaining clear and structured project documentation.
 - **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
-## [Home Lab Scheme image](https://vladmin-dev.top/hosting-tools-images/Home-Lab-Setup.drawio.png)
 
+## [Home Lab Scheme image](https://vladmin-dev.top/hosting-tools-images/HomeLab-web-Version-Infra.png)
 
-### 🚀 Skills and Tools:
+### 🚀 Skills and Tools
 
 ## Scripting
+
 <table>
   <tr>
     <td align="center">
@@ -35,6 +38,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 </table>
 
 ## DevOps Tools
+
 <table>
   <tr>
     <td align="center">
@@ -50,6 +54,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 </table>
 
 ## Virtualization/Containerization
+
 <table>
   <tr>
     <td align="center">
@@ -71,6 +76,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 </table>
 
 ## Monitoring
+
 <table>
   <tr>
     <td align="center">
@@ -85,7 +91,8 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
   </tr>
 </table>
 
-### 📖 Learning & Evolving:
+### 📖 Learning & Evolving
+
 I believe in **continuous learning** and stay up to date with the latest trends in DevOps, cloud computing, and infrastructure management. I'm constantly exploring new tools, mastering automation frameworks, and diving deeper into **Python** and **Go**.
 
 Feel free to explore my repositories to see some of the projects I've been working on! ✨
