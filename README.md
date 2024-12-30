@@ -14,7 +14,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
 - **Documentation**: I use [MkDocs](https://www.mkdocs.org/) to write and organize my documentation and notes. Its simplicity and support for Markdown make it ideal for maintaining clear and structured project documentation.
 - **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
 
-## [Home Lab Scheme image](https://vladmin-dev.top/hosting-tools-images/HomeLab-web-Version-Infra.png)
+## [Home Lab Scheme image](https://drive.google.com/file/d/1zsWD4krnzB1qgxbdZgfYEvtWBoQlFMWM/view?usp=drive_link)
 
 ### 🚀 Skills and Tools
 
