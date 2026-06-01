@@ -4,22 +4,9 @@
 
 I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud Infrastructure**. My focus is on scripting automation, infrastructure as code (IaC), and developing scalable, automated solutions using modern tools and frameworks.
 
-### 💻 Technologies I work with
+## 🚀 Skills & Tools
 
-- **DevOps**: Utilizing [Ansible](https://www.ansible.com/) and [Jenkins](https://www.jenkins.io/) to automate deployments, configuration management, and CI/CD pipelines.
-- **Programming**: Comfortable with [Python](https://www.python.org/) and [Go](https://golang.org/) for backend development and automation.
-- **Scripting**: Automating tasks with [Bash](https://www.gnu.org/software/bash/), [Python](https://www.python.org/), and [Go](https://golang.org/).
-- **Virtualization**: Experienced with [LXD/LXC](https://linuxcontainers.org/lxd/introduction/), [Incus Containers](https://incus.net/), [Docker](https://www.docker.com/), [Podman](https://podman.io/), and [QEMU-KVM](https://www.qemu.org/).
-- **Monitoring**: Skilled in setting up monitoring with [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/), and [Icinga2](https://icinga.com/).
-- **Documentation**: I use [MkDocs](https://www.mkdocs.org/) to write and organize my documentation and notes. Its simplicity and support for Markdown make it ideal for maintaining clear and structured project documentation.
-- **Version Control**: I manage my projects using [GitHub](https://github.com/) and my self-hosted GitLab instance for version control and collaboration.
-## Home Lab Infra
-
-![Home Lab Scheme](home-lab-infra.png)
-
-### 🚀 Skills and Tools
-
-## Scripting
+### Scripting
 
 <table>
   <tr>
@@ -38,12 +25,12 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
   </tr>
 </table>
 
-## DevOps Tools
+### DevOps Tools
 
 <table>
   <tr>
     <td align="center">
-     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
@@ -51,10 +38,13 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
     <td align="center">
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white" alt="MkDocs" />
+    </td>
   </tr>
 </table>
 
-## Virtualization/Containerization
+### Virtualization & Containerization
 
 <table>
   <tr>
@@ -65,7 +55,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
       <img src="https://img.shields.io/badge/Incus-003B57?style=for-the-badge&logo=linux&logoColor=white" alt="Incus" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/QEMU-KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+      <img src="https://img.shields.io/badge/QEMU--KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU-KVM" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -76,7 +66,7 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
   </tr>
 </table>
 
-## Monitoring
+### Monitoring
 
 <table>
   <tr>
@@ -92,8 +82,21 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
   </tr>
 </table>
 
-### 📖 Learning & Evolving
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vl-tech&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vl-tech&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+## 📖 Learning & Evolving
 
 I believe in **continuous learning** and stay up to date with the latest trends in DevOps, cloud computing, and infrastructure management. I'm constantly exploring new tools, mastering automation frameworks, and diving deeper into **Python** and **Go**.
 
-Feel free to explore my repositories to see some of the projects I've been working on! ✨
+## 🏠 Home Lab Infra
+
+![Home Lab Scheme](home-lab-infra.png)
+
+## 📬 Contact
+
+- **GitHub**: [github.com/vl-tech](https://github.com/vl-tech)
