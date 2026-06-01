@@ -82,13 +82,6 @@ I'm passionate about **DevOps**, **Python** and **Go** programming, and **Cloud 
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vl-tech&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vl-tech&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 📖 Learning & Evolving
 
 I believe in **continuous learning** and stay up to date with the latest trends in DevOps, cloud computing, and infrastructure management. I'm constantly exploring new tools, mastering automation frameworks, and diving deeper into **Python** and **Go**.
